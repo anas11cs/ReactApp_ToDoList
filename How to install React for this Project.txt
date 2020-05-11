@@ -1,0 +1,10 @@
+1. Open Terminal
+2. Clone[github] this project in any path on your pc
+3. Run in Terminal cd "React App" <- As in the folder
+==== INSTALLING REACT ====
+4. npm init -y
+5. npm install react react-dom --save
+6. npm install webpack webpack-dev-server webpack-cli --save-dev
+7. npm install babel-core babel-loader babel-preset-env babel-preset-react html-webpack-plugin --save-dev
+8. npm install
+9. npm start 
